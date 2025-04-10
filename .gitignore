@@ -1,4 +1,5 @@
 # Byte-compiled / optimized / DLL files
+.idea
 __pycache__/
 *.py[cod]
 *$py.class
@@ -160,3 +161,4 @@ cython_debug/
 #.idea/
 /Assignment1/datasets
 .DS_Store
+Assignment1/.idea/Assignment1.iml
